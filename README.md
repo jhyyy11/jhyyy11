@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm Romeo</h1>
-<h3 align="center">A passionate graphic designer from Philippines</h3>
+# 💫 About Me:
+I'm currently 2nd year student at CVSU Naic!<br><br>🎨I love anything about ARTS <br>🌹I have a small business (FLOWER SHOP) <br><br>
 
-- 🌱 I’m currently learning **Open Source, Data Structure**
 
-- 📫 How to reach me **https://www.instagram.com/heyy.jud3ee?igsh=Y2xheWpnMm03Z3Jq**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/heyy.jude3ee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyy.jud3ee) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@heyy.jud3ee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhyyy.2rrjs@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/heyy.jude3ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/heyy.jude3ee" height="30" width="40" /></a>
-<a href="https://instagram.com/heyy.jud3ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyy.jud3ee" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jhyyy11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jhyyy11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhyyy11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jhyyy11&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jhyyy11&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jhyyy11&icon=5&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
