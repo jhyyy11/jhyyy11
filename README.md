@@ -1,3 +1,5 @@
+<h1>HELLO, I'M JUDE!</h1>
+
 # 💫 About Me:
 I'm currently 2nd year student at CVSU Naic!<br><br>🎨I love anything about ARTS <br>🌹I have a small business (FLOWER SHOP) <br><br>
 
