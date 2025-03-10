@@ -1,7 +1,7 @@
-<h1 style= "align: center" font-style="Times New Roman">  HELLO, I'M JUDE!</h1>
+<h1 align= "center"> 👋HELLO, I'M JUDE!</h1>
 
 # 💫 About Me:
-I'm currently 2nd year student at CVSU Naic!<br><br>🎨I love anything about ARTS <br>🌹I have a small business (FLOWER SHOP) <br><br>
+✍I'm currently 2nd year student at CVSU Naic!<br><br>🎨I love anything about ARTS <br>🌹I have a small business (FLOWER SHOP) <br><br>
 
 
 ## 🌐 Socials:
