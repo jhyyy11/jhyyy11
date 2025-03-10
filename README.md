@@ -1,5 +1,5 @@
 <h1 align= "center"> 👋HELLO, I'M JUDE!</h1> 
-<h2 align= "center"> <style= ont-family: 'Brush Script MT', cursive;> <i> "Your Future Graphic Designer" </i> </style> </h2> <br>
+<h2 align= "center"> <style= font-family: 'Brush Script MT', cursive;> <i> "Your Future Graphic Designer" </i> </style> </h2> <br>
 
 <h1><b> 💫 About Me: </b> </h1>
 ✍I'm currently 2nd year student at CVSU Naic!<br><br>🎨I love anything about ARTS <br> 🌹I have a small business (FLOWER SHOP) <br><br>
