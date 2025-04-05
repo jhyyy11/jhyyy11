@@ -2,7 +2,7 @@
 <h2 align= "center"> <i> "Your Future Graphic Designer" </i> </h2> <br>
 
 <h1><b> 💫 About Me: </b> </h1>
-✍My real name is Romeo C. Torrijos, I'm currently 2nd year student at CVSU Naic!<br><br>🎨I love anything about ARTS <br> 🌹I have a small business (FLOWER SHOP) <br><br>
+✍I'm currently 2nd year student at CVSU Naic!<br><br>🎨I love anything about ARTS <br> 🌹I have a small business (FLOWER SHOP) <br><br>
 
 
 # 🌐 Socials:
